@@ -1,0 +1,20 @@
+{
+  "name": "23-04-03-restparameter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowkwon97/23-04-03-restParameter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowkwon97/23-04-03-restParameter/issues"
+  },
+  "homepage": "https://github.com/nowkwon97/23-04-03-restParameter#readme"
+}
